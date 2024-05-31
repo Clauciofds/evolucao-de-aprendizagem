@@ -110,3 +110,6 @@
  
 
 - Aprendi alguns métodos básicos de arrays, como adicionar, remover itens de uma lista, incluir, mover e reorganizar arrays, filtrar, remover e incluir elementos, buscar retornando o valor do elemento ou seu índice e remover ou incluir elemento em posições específica dentro da array.
+
+## Agradecimentos
+_Gostaria de agradecer a todos da Cubos que colaboraram com meu crescimento pessoa e profissional._
