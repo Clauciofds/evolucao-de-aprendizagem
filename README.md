@@ -89,7 +89,7 @@
  
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo? 
-[![LinkdIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claucio-f-d-dos-santos-a2b46532/)
+[![LinkdIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claucio-f-d-dos-santos-a2b46532/) [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Clauciofds/Intruducao_Type_Script)
 - Aprendi como criar um perfil no LinkedIn e adicionar minhas habilidades e experiências para compartilhar com outras pessoas além de utilizar a ferramentas de procura do LinkdIn utilizando filtros e novas funções mais assertivadas e eficazes. E manter postagem frequentes para que o logaritmo do LinkedIn me posicione bem nas buscas dos recrutadores.
 
  
@@ -100,8 +100,7 @@
 
 - Aprendi algumas estratégias simples de gerenciamento de tempo, como fazer listas de tarefas, definir prioridades estruturar um cronograma de entrega de projeto e processos de forma visual e prática para fácil entendimento não só meu com da equipe. 
 
- 
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
 - Aprendi como usar o Git para controlar as diferentes versões de um projeto e colaborar com outras pessoas. Também vi sobre como nomear de forma estratégica meus repositórios para que eles possam aparecer um buscas com mais frequência e introduzir tags. Também como estruturar meu portifólio. 
 
  
