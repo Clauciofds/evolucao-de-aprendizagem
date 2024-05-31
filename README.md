@@ -90,7 +90,7 @@
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo? 
 
-- Aprendi como criar um perfil no LinkedIn e adicionar minhas habilidades e experiências para compartilhar com outras pessoas além de utilizar a ferramentas de procura do LinkdIn utilizando filtros e novas funções mais assertivadas e eficazes. 
+- Aprendi como criar um perfil no LinkedIn e adicionar minhas habilidades e experiências para compartilhar com outras pessoas além de utilizar a ferramentas de procura do LinkdIn utilizando filtros e novas funções mais assertivadas e eficazes. E manter postagem frequentes para que o logaritimo do LinkdIn me posicione bem nas busca dos recrutadores.
 
  
 
