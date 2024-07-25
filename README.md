@@ -1,8 +1,8 @@
-# Evolucao-de-aprendizagem 
+# Evolucao-de-aprendizagem - Módulo Back-end
 
  
 
-## Conteúdos a serem trabalhados nesse módulo: 
+## Conteúdos a serem trabalhados nos módulo: 
 
 - Soft skills   
 
@@ -24,7 +24,7 @@
 
 - Implementação de servidores com Nodes.js
 
-## O que eu já sei sobre os assuntos que serão abordados nesse módulo?   
+## O que eu já sei sobre os assuntos que serão abordados?   
 
 - Soft skills são habilidades que nos dão suporte nas situações do meio profissional relacionados a solução de crises e elaboração de projeto junto a uma equipe multifuncional, facilitando nossa integração com outros profissionais trazendo não só produtividade, mas também mais assertividade ao trabalha integrado a um equipe.   
 
@@ -54,7 +54,7 @@
 
 - Com relação a servidores algo inteiramente fisico onde se hospedavam sites e banco de dados na web.
 
-## O que quero aprender sobre os assuntos que serão abordados nesse módulo?   
+## O que quero aprender sobre os assuntos que serão abordados em Back-end?   
 
 - Como posso desenvolver minhas habilidades de gestão de tempo e aplicá-las em meu dia a dia?   
 
@@ -86,7 +86,7 @@
 
 - Como criar criar e utilizar servidores, qual sua aplicabilidade, manutenção e funcionamento. Também entender quais ferramentas são utilizadas para tais atividades.
 
-## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo? 
+## Minha evolução: o que aprendi sobre os assuntos que foram abordados back-end? 
 [![LinkdIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claucio-f-d-dos-santos-a2b46532/) [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Clauciofds/Intruducao_Type_Script)
 - Aprendi como criar um perfil no LinkedIn e adicionar minhas habilidades e experiências para compartilhar com outras pessoas além de utilizar a ferramentas de procura do LinkdIn utilizando filtros e novas funções mais assertivadas e eficazes. E manter postagem frequentes para que o logaritmo do LinkedIn me posicione bem nas buscas dos recrutadores.
 
